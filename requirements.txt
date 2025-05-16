@@ -1,0 +1,5 @@
+transformers
+spacy
+nltk
+scikit-learn
+rouge-score
